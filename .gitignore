@@ -1,0 +1,7 @@
+.idea
+/__pycache__
+/breakout-saves
+/tensorboard
+/logs
+/movies
+test.py
